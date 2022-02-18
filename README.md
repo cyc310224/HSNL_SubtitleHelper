@@ -1,6 +1,9 @@
-# HSNL_SubtitleHelper
-
+# HSNL Subtitle Helper
 ***注意事項 : 使用本軟體需要Python以及以下兩個library(os, pandas)***
+
+### 宗旨
+刪除字幕檔中的冗詞贅字，讓大家都可以快樂/快速賺錢錢><
+
 ### 使用方法
 Step 1. 下載整包文件  
 Step 2. 點進去HSNL_SubtitleHelper資料夾，並將目標影片的字幕檔(draft_content.json)複製一份進來  
